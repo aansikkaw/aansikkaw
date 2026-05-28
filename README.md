@@ -50,9 +50,12 @@ I am an AI Researcher and Engineer bridging the gap between theoretical machine 
 * Fine-tuned a **Bio-BERT** model on a triplet dataset for text classification using **PyTorch**,reducing training loss to `0.0035` and achieving near 100% evaluation accuracy via cosine similarity.
 * Dockerized LLM pipelines and deployed them on **GCP** for enterprise scalability.
 
-**Siemens Healthineers | AI/ML Trainee** *(June 2024 - July 2024)*
-* Engineered a predictive latency model for medical imaging systems using **Random Forest**, successfully identifying critical bottlenecks in image generation.
-* Automated hyperparameter tuning and cross-validation pipelines utilizing `GridSearchCV` to optimize algorithmic stability.
+**Siemens Energy | ML Trainee** *(May 2024 - July 2024)*
+*  Performed Exploratory Data analysis methods using pandas, Seaborn and Matplotlib libraries to pre-process and
+visualize the cleaned data from the sensors of the Turbine and then applied Random Forest Regressor and LSTM
+model to predict the heat rate efficiency and achieve accuracy of 96%
+* Conducted sensitivity analysis using Monte Carlo simulations to identify key parameters affecting turbine
+performance.
 
 **Intel | Deep Learning Trainee** *(May 2024 - June 2024)*
 * Built a vehicle movement analysis system utilizing **Edge AI**, integrating **YOLOv8** for object detection and **Tesseract OCR** for license plate recognition.
