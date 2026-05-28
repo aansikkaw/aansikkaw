@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-I am an AI Researcher and Engineer bridging the gap between theoretical machine learning and scalable production systems. My work focuses on **Generative AI architectures (LLMs/RAG)**, **Computer Vision (Edge AI)**, and **Physics-Informed Neural Networks**. I am currently preparing for graduate studies in Data Science for Fall 2026.
+I am an AI Researcher and Engineer bridging the gap between theoretical machine learning and scalable production systems. My work focuses on **Generative AI architectures (LLMs/RAG)**, **Computer Vision (Edge AI)**.I am currently preparing for graduate studies in Data Science for Fall 2026.
 
 * 🎓 **Education:** B.Tech in Electrical and Electronics Engineering (Minor in Computational Intelligence) @ Manipal Institute of Technology (2025).
-* 💼 **Current Role:** Generative AI Intern @ **IQVIA**, architecting RAG pipelines using DeepSeek, ChromaDB, and Docker.
+* 💼 **Last Role:** Generative AI Intern @ **IQVIA**, architecting RAG pipelines using DeepSeek, ChromaDB, and Docker.
 * 🔭 **Current Focus:** Large Language Model fine-tuning (Bio-BERT), optimization architectures (OpenVINO, CUDA), and MLOps.
 * ♟️ **Beyond Code:** International Chess Player & Captain—I apply the same strategic foresight and pattern recognition from the board to algorithmic problem-solving.
 
@@ -47,7 +47,7 @@ I am an AI Researcher and Engineer bridging the gap between theoretical machine 
 
 **IQVIA | Generative AI Intern** *(Jan 2025 - July 2025)*
 * Architected a REST API and RAG pipeline leveraging **DeepSeek R1-1.5B** and **ChromaDB** to automate medical record diagnostic summaries and disease-to-code mapping.
-* Fine-tuned a **Bio-BERT** model on a triplet dataset for text classification using **PyTorch**, reducing training loss to `0.0035` and achieving near 100% evaluation accuracy via cosine similarity.
+* Fine-tuned a **Bio-BERT** model on a triplet dataset for text classification using **PyTorch**,reducing training loss to `0.0035` and achieving near 100% evaluation accuracy via cosine similarity.
 * Dockerized LLM pipelines and deployed them on **GCP** for enterprise scalability.
 
 **Siemens Healthineers | AI/ML Trainee** *(June 2024 - July 2024)*
@@ -58,17 +58,8 @@ I am an AI Researcher and Engineer bridging the gap between theoretical machine 
 * Built a vehicle movement analysis system utilizing **Edge AI**, integrating **YOLOv8** for object detection and **Tesseract OCR** for license plate recognition.
 * Accelerated the model inference pipeline using **OpenVINO**, achieving a **30% reduction in latency** for edge deployments.
 
----
 
-### 🔬 Featured Research & Projects
 
-#### [Physics-Informed Neural Network (PINN) for Harmonic Oscillations](https://github.com/YOUR_GITHUB_HANDLE/YOUR_REPO_NAME)
-* Developed a specialized neural architecture to approximate the waveform of a 1-D under-damped harmonic oscillator.
-* Engineered a custom 'physics loss' function, embedding differential equations directly into the network's optimization loop to guarantee mathematically accurate physical boundaries.
-
-#### [Real-Time 4K Person Detection Pipeline](https://github.com/YOUR_GITHUB_HANDLE/YOUR_REPO_NAME)
-* Implemented a high-performance computer vision pipeline on 4K video feeds using YOLOv8 and OpenCV.
-* Optimized inference throughput by leveraging mixed precision, expanded batch sizes, and **CUDA** acceleration to sustain near real-time frames per second (FPS) on standard GPUs.
 
 ---
 
